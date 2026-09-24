@@ -196,7 +196,7 @@ I am currently looking for a **final-year internship in Data Analytics / Data Sc
 
 <div align="center">
 
-### ✨ "Data tells a story. My goal is to understand it."
+### ✨ "Making sense of data, one insight at a time."
 
 </div>
 
